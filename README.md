@@ -37,4 +37,4 @@ existir nos registros, e é sua tarefa lidar com ambas as situações.
 	1. os registros impressos, um por linha, em ordem crescente de código;
 	2. os registros impressos, um por linha, em ordem decrescente de código;
 	3. se o código consultado existir, imprimir ele no arquivo de saída. Caso não exista,
-imprimir uma mensagem indicando que o código não existe/não foi encontrado.
+	imprimir uma mensagem indicando que o código não existe/não foi encontrado.
